@@ -70,7 +70,7 @@ A transformed format from EAF to fit our own needs, the info is being structured
         "Camera":,
         "StrokeBegin":,
         "StrokeEnd":,
-        "StrokeType": # key will be StrokeError if the value is error-tier
+        "StrokeType": 
     }
 }
 ```
